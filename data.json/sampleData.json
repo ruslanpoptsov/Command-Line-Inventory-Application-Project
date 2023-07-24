@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "name": "Running Shoes",
+      "priceInCents": 5999,
+      "inStock": 20,
+      "shoeSize": 9
+    },
+    {
+      "id": 2,
+      "name": "Sandals",
+      "priceInCents": 2999,
+      "inStock": 15,
+      "shoeSize": 8
+    },
+    {
+      "id": 3,
+      "name": "Boots",
+      "priceInCents": 7999,
+      "inStock": 10,
+      "shoeSize": 10
+    }
+  ]
+  

@@ -1,0 +1,11 @@
+{
+    "name": "my-command-line-inventory-app",
+    "version": "1.0.0",
+    "description": "A simple command-line inventory application",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "Ruslan Poptsov",
+  }
+  
